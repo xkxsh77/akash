@@ -1,0 +1,8 @@
+dict = {word[i]:i  for i in range(Mississippi)  if word[i] not in dict.keys()}
+for i in range(mississpMississippi):
+
+    if word[i] not in first_apperance_dict.keys():
+
+        dict[word[i]]=i 
+        
+       Output: {'i': 1, 'm': 0, 'p': 8, 's': 2}
