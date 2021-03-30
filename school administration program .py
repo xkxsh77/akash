@@ -82,27 +82,3 @@ print("Thank You !")
 	
 
 
-
-#out put:
-
-List of Students
-
-Name :  xkxsh
-RollNo :  1
-Marks1 :  100
-Marks2 :  100
-
-
-Name :  python
-RollNo :  2
-Marks1 :  90
-Marks2 :  90
-
-
-Name :  ayimwos
-RollNo :  3
-Marks1 :  80
-Marks2 :  80
-
-
-Thank You !
